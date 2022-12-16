@@ -4,7 +4,7 @@ The website is live on link: https://paper-code.onrender.com
 ## React app
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. The website UI is developed using react. 
 
-## Flask Api
+## Flask API
 Flask is a popular micro framework for building web applications. Since it is a micro-framework, it is very easy to use and lacks most of the advanced functionality which is found in a full-fledged framework. Therefore, building a REST API in Flask is very simple.
 For this website, user upload a image as a input. But in the code editor code should be in the text format. By using flask api, we tried to convert uploaded image into the text. 
 
