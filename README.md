@@ -1,6 +1,8 @@
 # Paper_Code
 The website is live on link: https://paper-code.onrender.com
 
+Paper code is a coding tool built with the aim of simplifying your brainstorming-coding experience. As the name suggests Paper Code compresses the various steps involved in coding from scratch, into a simple 3 click process - Scan. Edit. Run. Paper code works on programming languages to bring your ideas from the chalk board into a reality. Owing to its highly versatile nature, Paper Code finds applications in multiple domains, ranging from personal use at home, to institutional use by instructors or evaluators.
+
 ## React app
 React is a free and open-source front-end JavaScript library for building user interfaces based on UI components. The website UI is developed using react. 
 
